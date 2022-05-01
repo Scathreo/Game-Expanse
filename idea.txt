@@ -1,0 +1,2 @@
+commencé bas evec peu d'automatisation (charette avec mule) et de progresser dans les ages.
+automatiser en produisant des ressourcces pour batiments (exemple, construiction de palissade rondins par rondins)
